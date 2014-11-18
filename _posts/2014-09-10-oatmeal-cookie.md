@@ -10,7 +10,9 @@ categories: desert
 - 1 cup white sugar
 - Raisins
 - Banana
+- Bowl
 
 ## Directions
 
 Knife
+Mix in bowl
